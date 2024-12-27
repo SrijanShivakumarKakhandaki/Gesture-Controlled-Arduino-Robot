@@ -16,11 +16,11 @@ The project consists of two main parts:
 
 ## Components Used
 - **Arduino Uno** (for both transmitter and receiver)
-- **Accelerometer** (e.g., ADXL345)
-- **Gyroscope** (e.g., MPU6050)
+- **Accelerometer** (MPU650)
+- **Gyroscope** (MPU6050)
 - **NRF24L01 Wireless Module** (for communication)
 - **Servo Motors** (for robot movement)
-- **Power Supply** (rechargeable batteries)
+- **Power Supply** (rechargeable LIPO batteries)
 
 ## Transmitter Code
 
